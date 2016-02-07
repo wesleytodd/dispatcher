@@ -1,0 +1,30 @@
+{
+  "name": "nerf",
+  "version": "1.0.0",
+  "description": "A NERF application stack example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wes Todd",
+  "license": "ISC",
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-preset-react": "^6.3.13",
+    "babel-register": "^6.4.3",
+    "babelify": "^7.2.0",
+    "browserify-middleware": "^7.0.0",
+    "classnames": "^2.2.3",
+    "combine-reducers": "^1.0.0",
+    "consolidate": "^0.14.0",
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "is-browser": "^2.0.1",
+    "left-pad": "0.0.4",
+    "nighthawk": "^1.3.0",
+    "react": "^0.14.7",
+    "react-express-middleware": "^1.0.1",
+    "recursive-escape": "^1.0.0",
+    "recursive-unescape": "^1.0.0"
+  }
+}
